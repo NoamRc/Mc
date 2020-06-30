@@ -1,0 +1,16 @@
+{
+  "group": "avram",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sand"
+    }
+  },
+  "result": {
+    "item": "minecraft:sandstone",
+    "count": 1
+  }
+}

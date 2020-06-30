@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "avram:blocks/anan_block",
+    "up": "avram:blocks/anan_block",
+    "north": "avram:blocks/anan_block",
+    "east": "avram:blocks/anan_block",
+    "south": "avram:blocks/anan_block",
+    "west": "avram:blocks/anan_block",
+    "particle": "avram:blocks/anan_block"
+  }
+}

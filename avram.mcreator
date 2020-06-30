@@ -9,12 +9,23 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "r"
+    },
+    {
+      "name": "Cloud",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cloud"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "block.avram.cloud": "Cloud"
+    }
   },
   "workspaceSettings": {
     "modid": "avram",
